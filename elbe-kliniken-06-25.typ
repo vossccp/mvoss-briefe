@@ -11,13 +11,15 @@
       E-Mail: #link("mailto:info@technische-klebeschilder.de")[info\@technische-klebeschilder.de]\
     ],
   ),
-  
+
+  font: "Source Sans 3",
+
   recipient: [
     Elbe Kliniken Stade-Buxtehude GmbH\
     Postfach 1365\
     21603 Buxtehude
   ],
-  
+
   date: "31.05.2025",
   subject: "Rechnung 11038742 vom 18.12.2024",
 )

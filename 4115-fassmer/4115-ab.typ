@@ -26,7 +26,7 @@
   (2, "Stück", "Säure/Basen violett 90mm breit", 43.00),
   (20, "Stück", "Pfeile 50mm breit", 43.00),
   (2, "Stück", "Seewasser grün 90mm breit", 43.00),
-  (3, "Stück", "Destillat Wasser blau-grau-blau 90mm breit", 43.00),
+  (3, "Stück", "destillat wasser blau-grau-blau 90mm breit", 43.00),
   (4, "Stück", "Heizung Wasser blau-silber-blau 90mm breit", 43.00),
   (21, "x", "Farbwechsel", 25.00),
 )

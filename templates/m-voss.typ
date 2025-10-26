@@ -159,7 +159,6 @@
       footer
     } else {
       [
-        Lieferung: innerhalb von 4 Wochen nach Auftragsdatum\
         Zahlung: innerhalb von 14 Tagen mit 2% Skonto, innerhalb von 30 Tagen netto
       ]
     }
